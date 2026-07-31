@@ -1,11 +1,17 @@
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:A5D6A7&height=250&section=header&text=Hey%20there,%20I'm%20Koushik%20Sarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20•%20Next.js%20•%20Node.js&descAlignY=55&descSize=18"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:66BB6A&height=250&section=header&text=Hey%20there,%20I'm%20Koushik%20Sarkar&fontSize=40&fontColor=1B5E20&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20•%20Next.js%20•%20Node.js&descAlignY=55&descSize=18"/>
   <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:66BB6A&height=250&section=header&text=Hey%20there,%20I'm%20Koushik%20Sarkar&fontSize=40&fontColor=1B5E20&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20•%20Next.js%20•%20Node.js&descAlignY=55&descSize=18"/>
-</picture>
-
+</picture> -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:A5D6A7&height=250&section=header&text=Hey%20there,%20I'm%20Koushik%20Sarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20•%20Next.js%20•%20Node.js&descAlignY=55&descSize=18"
+    alt="Header Banner"
+    width="100%"
+  />
+</p>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React.js+%26+Next.js;Building+AI-Powered+Web+Applications;Data+Structures+%26+Algorithms+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -41,7 +47,7 @@
 </td>
 <td width="35%">
 
-<img src="https://raw.githubusercontent.com/Koushik-23Sarkar/Koushik-23Sarkar/main/assets/coding.gif" width="100%" alt="coding gif" onerror="this.style.display='none'"/>
+<img src="https://leetcard.jacoblin.cool/Koushik-45Sarkar?theme=dark&font=Karma&ext=contest" width="100%" />
 
 </td>
 </tr>
@@ -68,7 +74,15 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-23Sarkar&theme=react-dark&bg_color=ffffff&color=1B5E20&line=4CAF50&point=66BB6A&area=true&hide_border=true" width="98%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-23Sarkar&theme=react-dark&bg_color=ffffff&color=1B5E20&line=4CAF50&point=66BB6A&area=true&hide_border=true" width="98%" /> -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Koushik-23Sarkar&theme=github-dark&bg_color=0d1117&color=A5D6A7&line=66BB6A&point=C8E6C9&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
 
 </div>
 
@@ -114,12 +128,18 @@
 
 <br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:A5D6A7&height=120&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:66BB6A&height=120&section=footer"/>
   <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:66BB6A&height=120&section=footer"/>
-</picture>
-
+</picture> -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:C8E6C9&height=120&section=footer"
+    alt="Footer Banner"
+    width="100%"
+  />
+</p>
 <div align="center">
 <i>Thanks for stopping by! ⭐ Feel free to check out my repositories and connect with me.</i>
 </div>
