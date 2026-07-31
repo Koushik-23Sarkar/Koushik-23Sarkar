@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Koushik-23Sarkar&show_icons=true&theme=default&hide_border=true&title_color=1B5E20&icon_color=4CAF50&text_color=333333&bg_color=ffffff00&border_color=A5D6A7" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Koushik-23Sarkar&show_icons=true&theme=default&hide_border=true&title_color=1B5E20&icon_color=4CAF50&text_color=333333&bg_color=ffffff00&border_color=A5D6A7" width="49%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koushik-23Sarkar&hide_border=true&background=ffffff00&stroke=A5D6A7&ring=4CAF50&fire=66BB6A&currStreakLabel=1B5E20&sideLabels=1B5E20&currStreakNum=1B5E20&sideNums=1B5E20&dates=6B6B6B" width="49%" />
 
 <br/>
@@ -111,15 +111,15 @@
 <a href="https://x.com/koushikSarkar64" target="_blank">
   <img src="https://img.shields.io/badge/X-1B5E20?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://instagram.com/[YOUR_INSTAGRAM]" target="_blank">
+<!-- <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1B5E20?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://tiktok.com/@[YOUR_TIKTOK]" target="_blank">
+</a> -->
+<!-- <a href="https://tiktok.com/@[YOUR_TIKTOK]" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-1B5E20?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://youtube.com/@[YOUR_YOUTUBE]" target="_blank">
+</a> -->
+<!-- <a href="https://youtube.com/@[YOUR_YOUTUBE]" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-1B5E20?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+</a> -->
 <a href="mailto:koushiksarkar7102@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
